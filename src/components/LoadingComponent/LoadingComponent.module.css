@@ -1,0 +1,11 @@
+﻿.bgLoading{
+    background-color: rgb(247, 241, 241,0.7);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
